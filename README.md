@@ -2,7 +2,7 @@
 
 This project involved creating an Entity Relationship Diagram (ERD) for the Sri Lanka Immigration Department. 
 
-* The ERD was based on an entry visit form, and uses Data Modeling best practices such as Normalization. 
+* The ERD was based on an entry visit form, and uses **Data Modeling best practices such as Normalization**. 
 
 * 1NF, 2NF & 3NF were used when constructing the relational model design. 
 
